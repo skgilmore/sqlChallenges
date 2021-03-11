@@ -1,0 +1,1 @@
+﻿delete from Album where Id = 29;
